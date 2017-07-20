@@ -17,4 +17,4 @@ output: html_document
 jQuery - [http://jQuery.com](http://jQuery.com)
 
 ##Licence##
-MIT Licence, What elese it could be :-)
+MIT Licence, What else it could be :-)
