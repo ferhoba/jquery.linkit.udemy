@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13ea93c1-fab6-489e-afd0-0a705c86bd0b" name="Default" comment="" />
+    <list default="true" id="13ea93c1-fab6-489e-afd0-0a705c86bd0b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <list id="6dc49688-1207-4b3a-a22f-e696f402b42d" name="Rejected commit: Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -239,7 +241,7 @@
       <workItem from="1500502914374" duration="2518000" />
       <workItem from="1500506165125" duration="832000" />
       <workItem from="1500585388544" duration="1453000" />
-      <workItem from="1500587077491" duration="3000" />
+      <workItem from="1500587077491" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="Rejected commit: Default">
       <created>1500504464828</created>
@@ -266,7 +268,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6532000" />
+    <option name="totallyTimeSpent" value="6675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
