@@ -4,17 +4,17 @@ author: "ferhoba"
 date: "19.07.2017"
 output: html_document
 ---
-#LinkIt jQuery plugin following Udemy Course
+#LinkIt jQuery plugin following Udemy Course#
 
-**jQuery plugin made folowing a Udemy's Course
+**jQuery plugin made folowing a Udemy's Course**
 
-##Version
+##Version##
 
-##Usage
+##Usage##
 
-##Vendors
+##Vendors##
 
 jQuery - [http://jQuery.com](http://jQuery.com)
 
-##Licence
+##Licence##
 MIT Licence, What elese it could be :-)
