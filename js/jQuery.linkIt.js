@@ -4,6 +4,6 @@
  */
 (function ($) {
     $.fn.linkIt = function () {
-        
+        alert(this.html());
     }
 }(jQuery));
