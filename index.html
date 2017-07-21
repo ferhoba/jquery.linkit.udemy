@@ -6,7 +6,11 @@
     <script src="js/jQuery.linkIt.js" type="text/javascript"></script>
     <script>
         $(document).ready(function () {
-            $('span').linkIt();
+            $('span').linkIt({
+                href    :"http://test.com",
+                text    :"Click Me",
+                target    :"_blank"
+            });
         });
         
     </script>
